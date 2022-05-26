@@ -1,0 +1,15 @@
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad.csproj.AssemblyReference.cache
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\MainWindow.g.cs
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\App.g.cs
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad_MarkupCompile.cache
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad_MarkupCompile.lref
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\bin\Debug\NumericKeypad.exe.config
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\bin\Debug\NumericKeypad.exe
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\bin\Debug\NumericKeypad.pdb
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\MainWindow.baml
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad.g.resources
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad.Properties.Resources.resources
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad.exe
+C:\Users\phoen\source\repos\NumericKeypad\NumericKeypad\obj\Debug\NumericKeypad.pdb
